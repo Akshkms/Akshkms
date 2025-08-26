@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay Sandipog
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on code challenger on Python
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on code challenger
 
 <!---
 Akshkms/Akshkms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
